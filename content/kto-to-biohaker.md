@@ -2,10 +2,10 @@
 categories = ["Biohaker"]
 date = 2020-10-13T22:00:00Z
 description = ""
-image = "/v1602505586/samples/landscapes/landscape-panorama.jpg"
+image = ""
 tags = []
 title = "Kto to Biohaker?"
-type = "featured"
+type = "post"
 
 +++
 ![](/v1602676824/IMG_20201012_185701_q6teeq.jpg)
