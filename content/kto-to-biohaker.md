@@ -8,4 +8,4 @@ title = "Kto to Biohaker?"
 type = "post"
 
 +++
-Biohaker albo „transhumanista praktyczny”. To osoba, która nie chce czekać biernie, aż nadejdzie Osobliwość albo aż sztuczna inteligencja w końcu się objawi i wchłonie treść ludzkich umysłów, ich biologicznych komputerów, ich wetware’u. Korzystając z dostępnych obecnie środków, robi, co morze, by już teraz złączyć się z technologią.
+![](/v1602676824/IMG_20201012_185701_q6teeq.jpg)Biohaker albo „transhumanista praktyczny”. To osoba, która nie chce czekać biernie, aż nadejdzie Osobliwość albo aż sztuczna inteligencja w końcu się objawi i wchłonie treść ludzkich umysłów, ich biologicznych komputerów, ich wetware’u. Korzystając z dostępnych obecnie środków, robi, co morze, by już teraz złączyć się z technologią.
